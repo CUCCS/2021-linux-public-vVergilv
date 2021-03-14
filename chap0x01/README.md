@@ -87,6 +87,7 @@ scp cuc-v@192.168.56.102:/var/log/installer/autoinstall-user-data ./
   ![image](img/7.png)
 
 通过sftp连接宿主机，并传输这两个文件。
+
   ![image](img/8.png)
 
 
