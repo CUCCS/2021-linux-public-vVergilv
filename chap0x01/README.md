@@ -25,7 +25,7 @@
 
 #### 下载并校验文件
 - 在官方网站下载 `Ubuntu20.04`镜像文件
-    ![image](img/1.PNG)
+    ![image](img\1.PNG)
 
 - 下载完成后利用SHA256进行哈希校验
    ![image](img/2.PNG)
