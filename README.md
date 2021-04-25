@@ -1,3 +1,7 @@
+# shell脚本仓库地址
+
+https://github.com/vVergilv/TravisBaseOJ
+
 # 实验报告要求
 
 ---
